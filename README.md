@@ -1,4 +1,4 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+<h1 align="center">Frida - Battery Saver</h1>
 
 <div align="center">
   <!-- Version -->
