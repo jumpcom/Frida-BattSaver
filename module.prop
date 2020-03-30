@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
+id=frida-battsaver
+name=Frida - Battery Saver
+version=v1.0
+versionCode=1
+author=jumpcom
+description=Magisk Module to reduce battery using with frida (Require Magisk-Frida)
 support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
