@@ -51,6 +51,7 @@ set_permissions() {
   
   # set_perm_recursive $MODPATH/system/lib 0 0 0755 0644
   # set_perm_recursive $MODPATH/system/vendor/lib/soundfx 0 0 0755 0644
+  set_perm $MODPATH/system/bin/frida-inject 0 2000 0755 u:object_r:system_file:s0
 
   # For files (not in directories taken care of above)
   # set_perm  <filename>                         <owner> <group> <permission> <contexts> (default: u:object_r:system_file:s0)

@@ -1,4 +1,4 @@
-<h1 align="center">Frida - Battery Saver</h1>
+<h1 align="center">Frida - Line Battery Saver</h1>
 
 <div align="center">
   <!-- Version -->
